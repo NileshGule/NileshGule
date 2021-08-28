@@ -32,13 +32,23 @@ I am Nilesh
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=nileshgule&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
-
+### GitHub Stats
 <a href="https://www.handsonarchitect.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=nileshgule&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshgule&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nileshgule&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nileshgule&theme=nord_dark)
+
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/nileshgule/count.svg" />  
+</p>
 
 <!--
 ### 🤝🏻 &nbsp;Connect with Me
