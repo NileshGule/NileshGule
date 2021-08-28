@@ -9,7 +9,7 @@ I am Nilesh
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
 
 ### Technologies
-
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000?logo=microsoft-azure)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
