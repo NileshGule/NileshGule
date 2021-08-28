@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am Nilesh
 
+[![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f&link=https://about.me/nileshgule/)](https://about.me/nileshgule/) 
+[![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/story/nileshgule/)](https://stackoverflow.com/story/nileshgule/) 
+
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
